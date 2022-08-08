@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00667b87-f38a-4075-8924-fac71dcdfeb1" name="Changes" comment="">
+    <list default="true" id="00667b87-f38a-4075-8924-fac71dcdfeb1" name="Changes" comment="Continue studying">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itproger/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itproger/ILights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itproger/Lesson_10_End.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itproger/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itproger/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itproger/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itproger/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itproger/db/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyStudy_itproger_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyStudy_itproger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons_1_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/Lessons_1_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons_7_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/Lessons_7_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -21,43 +35,54 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Lessons_1_6.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/itproger/Lessons_1_6.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Cvb6pLw4bShKC8YMRzCwjSgwi9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Lessons_1_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons_1_6" />
-      <module name="MyStudy_itproger_1" />
+}</component>
+  <component name="RunManager" selected="Application.com.itproger.Main">
+    <configuration name="com.itproger.Lesson_10_End" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itproger.Lesson_10_End" />
+      <module name="MyStudy_itproger" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="MyStudy_itproger_1" />
+    <configuration name="com.itproger.Lessons_1_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itproger.Lessons_1_6" />
+      <module name="MyStudy_itproger" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itproger.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itproger.Main" />
+      <module name="MyStudy_itproger" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Lessons_1_6" />
+        <item itemvalue="Application.com.itproger.Main" />
+        <item itemvalue="Application.com.itproger.Lesson_10_End" />
+        <item itemvalue="Application.com.itproger.Lessons_1_6" />
       </list>
     </recent_temporary>
   </component>
@@ -70,6 +95,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659685835776</updated>
     </task>
+    <task id="LOCAL-00001" summary="Continue studying">
+      <created>1659771763742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659771763742</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,5 +127,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Continue studying" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continue studying" />
   </component>
 </project>

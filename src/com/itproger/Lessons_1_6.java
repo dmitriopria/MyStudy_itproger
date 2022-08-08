@@ -1,3 +1,5 @@
+package com.itproger;
+
 import java.util.Scanner;
 
 public class Lessons_1_6 {
