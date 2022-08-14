@@ -1,4 +1,4 @@
-package com.itproger;
+package com.itproger.oop;
 
 import com.itproger.db.DB;
 
@@ -28,7 +28,7 @@ public class Main {
         truck1.setLoaded(true);
         truck1.getLoaded();
 
-        System.out.println("com.itproger.Truck speed: " + truck1.speed + ", BMW speed: " + bmw.speed);
+        System.out.println("com.itproger.oop.Truck speed: " + truck1.speed + ", BMW speed: " + bmw.speed);
 
         Truck truck2 = new Truck(150.5f, 4500, "White", new byte[]{0, 0, 100}, true);
         System.out.println(truck2.getValues());
@@ -46,7 +46,7 @@ public class Main {
             public void moveObject(float speed) {
                 super.moveObject(speed);
                 this.engine.isReady(true);
-                System.out.println("com.itproger.Car is flying");
+                System.out.println("com.itproger.oop.Car is flying");
             }
         };
         flyCar.moveObject(450);
@@ -65,10 +65,10 @@ public class Main {
 
         Person.getCount();
 //Это с использованием static - через этот метод вывели его номер
-//(метод в классе com.itproger.Person обратились к классу)
+//(метод в классе com.itproger.oop.Person обратились к классу)
 
         obj2.getCount();
-//Создали объекты и через этот метод вывели его номер (метод в классе com.itproger.Person)
+//Создали объекты и через этот метод вывели его номер (метод в классе com.itproger.oop.Person)
 //это без использования static (обратились напрямую к объекту)
         Person.count = 5;
 //Обратились к методу в классе и присвоили ему значение

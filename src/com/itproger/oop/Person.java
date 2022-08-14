@@ -1,4 +1,4 @@
-package com.itproger;
+package com.itproger.oop;
 
 public class Person {
 

@@ -1,4 +1,4 @@
-package com.itproger;
+package com.itproger.oop;
 
 public class Truck extends Transport {
 
@@ -12,9 +12,9 @@ public class Truck extends Transport {
 
     public String getLoaded() {
         if(isLoaded)
-            return "com.itproger.Truck is loaded";
+            return "com.itproger.oop.Truck is loaded";
         else
-            return "com.itproger.Truck isn't loaded";
+            return "com.itproger.oop.Truck isn't loaded";
     }
 
     public Truck(boolean isLoaded) {
@@ -45,7 +45,7 @@ public class Truck extends Transport {
     }
 
     @Override
-    public void moveObject(float speed) {}      //Реализация Абстрактного метода от com.itproger.Transport
+    public void moveObject(float speed) {}      //Реализация Абстрактного метода от com.itproger.oop.Transport
 
     public Engine engine = new Engine();        //Работа с Вложенным классом
 

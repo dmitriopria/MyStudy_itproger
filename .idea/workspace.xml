@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00667b87-f38a-4075-8924-fac71dcdfeb1" name="Changes" comment="Continue studying">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itproger/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itproger/ILights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itproger/Lesson_10_End.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itproger/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itproger/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itproger/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itproger/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itproger/db/DB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itproger/contactform/ContactForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itproger/contactform/MainContactForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyStudy_itproger_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyStudy_itproger.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons_1_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/Lessons_1_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons_7_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/Lessons_7_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itproger/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/oop/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itproger/ILights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/oop/ILights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itproger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/oop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itproger/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/oop/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itproger/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/oop/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itproger/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/oop/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itproger/db/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itproger/db/DB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +21,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -56,7 +52,27 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.itproger.Main">
+  <component name="RunManager" selected="Application.MainContactForm">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itproger.oop.Main" />
+      <module name="MyStudy_itproger" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainContactForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itproger.contactform.MainContactForm" />
+      <module name="MyStudy_itproger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itproger.contactform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.itproger.Lesson_10_End" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itproger.Lesson_10_End" />
       <module name="MyStudy_itproger" />
@@ -71,16 +87,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.itproger.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itproger.Main" />
-      <module name="MyStudy_itproger" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.itproger.Main" />
+        <item itemvalue="Application.MainContactForm" />
         <item itemvalue="Application.com.itproger.Lesson_10_End" />
         <item itemvalue="Application.com.itproger.Lessons_1_6" />
       </list>
@@ -102,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659771763742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Continue studying">
+      <created>1659959731609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659959731609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,4 +1,4 @@
-package com.itproger;
+package com.itproger.oop;
 
 public class Car extends Transport implements ILights {
 
@@ -11,7 +11,7 @@ public class Car extends Transport implements ILights {
     public Car() {}
 
     @Override
-    public void moveObject(float speed) {}      //Реализация Абстрактного метода от com.itproger.Transport
+    public void moveObject(float speed) {}      //Реализация Абстрактного метода от com.itproger.oop.Transport
 
     public Engine engine = new Engine();        //Работа с Вложенным классом
 
