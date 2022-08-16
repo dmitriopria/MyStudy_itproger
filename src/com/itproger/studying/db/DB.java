@@ -1,4 +1,4 @@
-package com.itproger.db;
+package com.itproger.studying.db;
 
 public class DB {
 

@@ -1,4 +1,4 @@
-package com.itproger.oop;
+package com.itproger.studying.oop;
 
 public class Truck extends Transport {
 

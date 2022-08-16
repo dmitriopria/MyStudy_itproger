@@ -1,4 +1,4 @@
-package com.itproger;
+package com.itproger.studying;
 
 public class Lesson_10_End {
     public static void main(String[] args) {

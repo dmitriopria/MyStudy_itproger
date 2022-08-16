@@ -1,6 +1,6 @@
-package com.itproger.oop;
+package com.itproger.studying.oop;
 
-import com.itproger.db.DB;
+import com.itproger.studying.db.DB;
 
 public class Main {
     public static void main(String[] args) {

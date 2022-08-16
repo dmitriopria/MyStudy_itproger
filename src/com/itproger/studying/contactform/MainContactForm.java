@@ -1,4 +1,4 @@
-package com.itproger.contactform;
+package com.itproger.studying.contactform;
 
 public class MainContactForm {
     public static void main(String[] args) {

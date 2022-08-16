@@ -1,4 +1,4 @@
-package com.itproger.contactform;
+package com.itproger.studying.contactform;
 
 import javax.swing.*;
 import java.awt.*;

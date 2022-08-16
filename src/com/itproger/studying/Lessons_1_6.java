@@ -1,4 +1,4 @@
-package com.itproger;
+package com.itproger.studying;
 
 import java.util.Scanner;
 
